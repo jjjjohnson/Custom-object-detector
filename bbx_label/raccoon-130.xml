@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>raccoon-130.jpg</filename>
+	<path>D:\git\raccoon_dataset\images\raccoon-130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>43</ymin>
+			<xmax>527</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>
