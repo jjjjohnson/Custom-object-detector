@@ -1,5 +1,7 @@
 # Raccoon Detector Dataset
 
+<img src="raccoon-demo.gif" alt="Overview" width="60%" height="60%">
+
 This repo are based on [this blog post](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9) This is a dataset that collected to train my own Raccoon detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 200 images (180 are used for training and 20 for validation).
 
 ## Getting Started
